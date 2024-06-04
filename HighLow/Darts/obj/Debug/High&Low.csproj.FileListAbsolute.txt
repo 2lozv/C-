@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#研修\Darts\Darts\obj\Debug\High&Low.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C#研修\Darts\Darts\obj\Debug\High&Low.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#研修\Darts\Darts\obj\Debug\Darts.exe
+C:\Users\Owner\Desktop\C#研修\Darts\Darts\obj\Debug\Darts.pdb
+C:\Users\Owner\Desktop\C#研修\Darts\Darts\bin\Debug\Darts.exe.config
+C:\Users\Owner\Desktop\C#研修\Darts\Darts\bin\Debug\Darts.exe
+C:\Users\Owner\Desktop\C#研修\Darts\Darts\bin\Debug\Darts.pdb
