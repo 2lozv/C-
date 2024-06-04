@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#研修\Count\Count\bin\Debug\Count.exe.config
+C:\Users\Owner\Desktop\C#研修\Count\Count\bin\Debug\Count.exe
+C:\Users\Owner\Desktop\C#研修\Count\Count\bin\Debug\Count.pdb
+C:\Users\Owner\Desktop\C#研修\Count\Count\obj\Debug\Count.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C#研修\Count\Count\obj\Debug\Count.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#研修\Count\Count\obj\Debug\Count.exe
+C:\Users\Owner\Desktop\C#研修\Count\Count\obj\Debug\Count.pdb
